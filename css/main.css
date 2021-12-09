@@ -655,7 +655,7 @@ header nav .i1 i:hover {
 }
 
 .abuotUsDesign {
-    background-image: url(/image/stats.png);
+    background-image: url(../image/stats.png);
     padding-top: var(--section-padding) ;
     padding-bottom: var(--section-padding);
     text-align: center;
